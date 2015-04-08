@@ -1,0 +1,5 @@
+int64 num
+strin first_name
+string last_name
+uint8 age
+uint32 score
